@@ -6,7 +6,7 @@
 # catalog-version v1.0
 Name:		texlive-spverbatim
 Version:	v1.0
-Release:	8
+Release:	9
 Summary:	Allow line breaks within \verb and verbatim output
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spverbatim
