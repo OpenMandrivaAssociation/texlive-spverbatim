@@ -1,12 +1,6 @@
-# revision 15878
-# category Package
-# catalog-ctan /macros/latex/contrib/spverbatim
-# catalog-date 2009-11-10 00:30:52 +0100
-# catalog-license lppl
-# catalog-version v1.0
 Name:		texlive-spverbatim
-Version:	v1.0
-Release:	10
+Version:	1.0
+Release:	1
 Summary:	Allow line breaks within \verb and verbatim output
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spverbatim
@@ -54,17 +48,3 @@ characters.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> v1.0-2
-+ Revision: 756161
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> v1.0-1
-+ Revision: 719571
-- texlive-spverbatim
-- texlive-spverbatim
-- texlive-spverbatim
-- texlive-spverbatim
-
