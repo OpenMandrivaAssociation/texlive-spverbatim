@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Allow line breaks within \verb and verbatim output
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spverbatim
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/spverbatim
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spverbatim.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spverbatim.doc.r%{version}.tar.xz
